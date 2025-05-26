@@ -1,2 +1,2 @@
-# wind_energy_analytics_ke
+# Wind Energy Analytics Knowledge Share
 Knowledge exchange space for analytics techniques
