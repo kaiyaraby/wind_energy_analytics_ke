@@ -1,0 +1,20 @@
+Week 16: Introduction to Machine Learning in Wind Energy
+Use cases in wind turbine performance and reliability
+Challenges and data considerations
+Week 18: Neural Networks
+Introduction to artificial neural networks
+Fundamentals of architecture and training
+Weeks 20-24: Specialized Neural Architectures
+Recurrent Neural Networks (RNNs)
+Convolutional Neural Networks (CNNs)
+Deep Learning methods:
+Week 24/25: Model Development and Optimization
+Model selection techniques
+Hyperparameter tuning strategies
+Week 26-28: Advanced Machine Learning Methods
+Gaussian Process Regression (GPR)
+Support Vector Machines (SVMs)
+Polynomial Chaos Expansion (PCE)
+Radial Basis Function Networks (RBFNs)
+Dynamic Mode Decomposition (DMD) with ML integration
+Bayesian Networks
