@@ -76,19 +76,85 @@
 This project aims to provide beginner-friendly resources and open-source code for people in the wind energy industry wanting to develop their digital and analytics skills. These will be delivered through Jupyter notebooks self-teaching and virtual discussion/teaching workshops with Python sessions delivered on odd weeks and stats/ML topics delivered on even weeks. For those wanting to be involved in the calls as well as the self-teaching materials, you can join the Microsoft Teams group [here](https://teams.microsoft.com/l/channel/19%3ApoooR5d8qFLE87TCQ3bcANQ4I4qhSRI5ujw9SyNpJpM1%40thread.tacv2/Main?groupId=006da0cd-1499-44f6-bc30-b0cc9acaa1c2&tenantId=38b40df8-b174-4f1a-baf8-e2f57646f856).
 
 
-<!-- Modelling -->
+<!--Agenda -->
+# Python Basics Course Outline
 
+* Week 1: Introduction to Python Fundamentals
++ Variables and data types
++ Data structures (lists, tuples, dictionaries, sets)
++ Operators and expressions
+* Week 3: Control Flow Statements
++ Conditional statements: if, elif, else
++ Loops: for, while
+* Week 5: Functions
++ Defining and calling functions
+Arguments, return values, and scope
+* Week 7: Object-Oriented Programming
++ Creating and using classes
++ Understanding objects, attributes, and methods
+* Week 9: Working with Common Python Libraries
++ Overview of (internally) commonly-used packages: numpy, scipy (inc. stats), scikit-learn, reliability
+* Week 11: Data Access and Manipulation
++ Reading, writing, and processing data
++ Integrating Python with existing data architecture
+* Week 13: Developing Reusable Code
++ Writing modular code and creating custom Python packages
+* Week 15: Specialized Tools
++ Introduction to PyWake and its applications
+* Week 17: Environment Management and Collaboration
++ Setting up virtual environments
++ Version control with Git
++ Basics of containerization (Docker)
+ 
+# Statistics Module
 
+* Week 2: Fundamentals of Statistical Distributions
++ Overview of common probability distributions
++ Understanding parameters and properties
+* Week 4: Distribution Fitting
++ Maximum Likelihood Estimation (MLE) techniques
++ Goodness-of-fit assessments
+* Week 6: Feature Engineering
++ Data preprocessing and transformation
++ Feature selection and extraction techniques
+* Week 8: Statistical Estimators
++ Point and interval estimation
++ Bias, variance, and efficiency
+* Week 10: Hypothesis Testing
++ Null and alternative hypotheses
++ Common tests (t-tests, chi-square, Wald test, Wilcoxon signed-rank test)
++ Selecting the appropriate test
++ p-values and statistical significance
+* Week 12: Monte Carlo Simulations
++ Principles and applications
++ Random sampling and probabilistic modeling
+* Week 14: Markov Chains
++ Basics of stochastic processes
++ Transition matrices and steady-state behavior
++ Monte Carlo simulations with Markov Chains
 
+# Machine Learning Module
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* Week 16: Introduction to Machine Learning in Wind Energy
++ Use cases in wind turbine performance and reliability
++ Challenges and data considerations
+* Week 18: Neural Networks
++ Introduction to artificial neural networks
++ Fundamentals of architecture and training
+* Weeks 20-24: Specialized Neural Architectures
++ Recurrent Neural Networks (RNNs)
++ Convolutional Neural Networks (CNNs)
++ Deep Learning methods:
+* Week 24/25: Model Development and Optimization
++ Model selection techniques
++ Hyperparameter tuning strategies
+* Week 26-28: Advanced Machine Learning Methods
++ Gaussian Process Regression (GPR)
++ Support Vector Machines (SVMs)
++ Polynomial Chaos Expansion (PCE)
++ Radial Basis Function Networks (RBFNs)
++ Dynamic Mode Decomposition (DMD) with ML integration
++ Bayesian Networks
 
 
 
@@ -104,8 +170,6 @@ Project Link: [https://github.com/hacktheclimate]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
