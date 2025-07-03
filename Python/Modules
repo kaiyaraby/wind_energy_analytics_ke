@@ -1,0 +1,26 @@
+Week 1: Introduction to Python Fundamentals
+Variables and data types
+Data structures (lists, tuples, dictionaries, sets)
+Operators and expressions
+Week 3: Control Flow Statements
+Conditional statements: if, elif, else
+Loops: for, while
+Week 5: Functions
+Defining and calling functions
+Arguments, return values, and scope
+Week 7: Object-Oriented Programming
+Creating and using classes
+Understanding objects, attributes, and methods
+Week 9: Working with Common Python Libraries
+Overview of (internally) commonly-used packages: numpy, scipy (inc. stats), scikit-learn, reliability
+Week 11: Data Access and Manipulation
+Reading, writing, and processing data
+Integrating Python with existing data architecture
+Week 13: Developing Reusable Code
+Writing modular code and creating custom Python packages
+Week 15: Specialized Tools
+Introduction to PyWake and its applications
+Week 17: Environment Management and Collaboration
+Setting up virtual environments
+Version control with Git
+Basics of containerization (Docker)
