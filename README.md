@@ -72,12 +72,14 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 This project aims to provide beginner-friendly resources and open-source code for people in the wind energy industry wanting to develop their digital and analytics skills. These will be delivered through Jupyter notebooks self-teaching and virtual discussion/teaching workshops with Python sessions delivered on odd weeks and stats/ML topics delivered on even weeks. For those wanting to be involved in the calls as well as the self-teaching materials, you can join the Microsoft Teams group [here](https://teams.microsoft.com/l/channel/19%3ApoooR5d8qFLE87TCQ3bcANQ4I4qhSRI5ujw9SyNpJpM1%40thread.tacv2/Main?groupId=006da0cd-1499-44f6-bc30-b0cc9acaa1c2&tenantId=38b40df8-b174-4f1a-baf8-e2f57646f856).
 
 
 <!--Agenda -->
-# Python Basics Course Outline
+# Agenda
+
+## Python Basics Course Outline
 
 * Week 1: Introduction to Python Fundamentals
 + Variables and data types
@@ -106,7 +108,7 @@ Arguments, return values, and scope
 + Version control with Git
 + Basics of containerization (Docker)
  
-# Statistics Module
+## Statistics Module
 
 * Week 2: Fundamentals of Statistical Distributions
 + Overview of common probability distributions
@@ -133,7 +135,7 @@ Arguments, return values, and scope
 + Transition matrices and steady-state behavior
 + Monte Carlo simulations with Markov Chains
 
-# Machine Learning Module
+## Machine Learning Module
 
 * Week 16: Introduction to Machine Learning in Wind Energy
 + Use cases in wind turbine performance and reliability
@@ -159,7 +161,7 @@ Arguments, return values, and scope
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Kaiya Raby - kaiya.raby@nadara.com or raby.kaiya@gmail.com
 
