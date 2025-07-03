@@ -1,0 +1,25 @@
+Week 2: Fundamentals of Statistical Distributions
+Overview of common probability distributions
+Understanding parameters and properties
+Week 4: Distribution Fitting
+Maximum Likelihood Estimation (MLE) techniques
+Goodness-of-fit assessments
+Week 6: Feature Engineering
+Data preprocessing and transformation
+Feature selection and extraction techniques
+Week 8: Statistical Estimators
+Point and interval estimation
+Bias, variance, and efficiency
+Week 10: Hypothesis Testing
+Null and alternative hypotheses
+Common tests (t-tests, chi-square, Wald test, Wilcoxon signed-rank test)
+Selecting the appropriate test
+
+p-values and statistical significance
+Week 12: Monte Carlo Simulations
+Principles and applications
+Random sampling and probabilistic modeling
+Week 14: Markov Chains
+Basics of stochastic processes
+Transition matrices and steady-state behavior
+Monte Carlo simulations with Markov Chains
