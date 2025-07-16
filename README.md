@@ -167,7 +167,7 @@ Kaiya Raby - kaiya.raby@nadara.com or raby.kaiya@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/kaiya-raby/)
 
-Project Link: [https://github.com/hacktheclimate]
+Project Link: https://github.com/kaiyaraby/wind_energy_analytics_ke/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
