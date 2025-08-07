@@ -79,6 +79,10 @@ This project aims to provide beginner-friendly resources and open-source code fo
 <!--Agenda -->
 # Agenda
 
+We are currently in Week 3.
+Last upload: Week 3 - Control Flow Statements (5/8/25)
+Next upload: Week 4 - Distribution Fitting using MLE (11/8/25)
+
 ## Python Basics Course Outline
 
 * Week 1: Introduction to Python Fundamentals
