@@ -35,7 +35,7 @@
     <br />
     <a href="https://github.com/kaiyaraby/wind_energy_analytics_ke/Python">View Python Resources</a>
     .
-    <a href="https://github.com/kaiyaraby/wind_energy_analytics_ke/Statistics">View Statistics Resource</a>
+    <a href="https://github.com/kaiyaraby/wind_energy_analytics_ke/Statistics">View Statistics Resources</a>
     ·
     <a href="https://github.com/kaiyaraby/wind_energy_analytics_ke/Statistics">View Machine Learning Resources</a>
   </p>
