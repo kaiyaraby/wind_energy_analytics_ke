@@ -144,17 +144,17 @@ Arguments, return values, and scope
 
 ## Machine Learning Module
 
-* Week 16: Introduction to Machine Learning in Wind Energy
+* Week 19: Introduction to Machine Learning in Wind Energy
 + Use cases in wind turbine performance and reliability
 + Challenges and data considerations
-* Week 18: Neural Networks
+* Week 20: Neural Networks
 + Introduction to artificial neural networks
 + Fundamentals of architecture and training
-* Weeks 20-24: Specialized Neural Architectures
+* Weeks 21-24: Specialized Neural Architectures
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
 + Deep Learning methods:
-* Week 24/25: Model Development and Optimization
+* Week 25: Model Development and Optimization
 + Model selection techniques
 + Hyperparameter tuning strategies
 * Week 26-28: Advanced Machine Learning Methods
