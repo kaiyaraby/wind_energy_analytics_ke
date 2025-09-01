@@ -109,6 +109,7 @@ Arguments, return values, and scope
 + Writing modular code and creating custom Python packages
 * Week 15: Specialized Tools
 + Introduction to PyWake and its applications
++ Introduction to reliability
 * Week 17: Environment Management and Collaboration
 + Setting up virtual environments
 + Version control with Git
@@ -122,21 +123,21 @@ Arguments, return values, and scope
 * Week 4: Distribution Fitting
 + Maximum Likelihood Estimation (MLE) techniques
 + Goodness-of-fit assessments
-* Week 6: Feature Engineering
+* Week 10: Feature Engineering
 + Data preprocessing and transformation
 + Feature selection and extraction techniques
-* Week 8: Statistical Estimators
+* Week 12: Statistical Estimators
 + Point and interval estimation
 + Bias, variance, and efficiency
-* Week 10: Hypothesis Testing
+* Week 14: Hypothesis Testing
 + Null and alternative hypotheses
 + Common tests (t-tests, chi-square, Wald test, Wilcoxon signed-rank test)
 + Selecting the appropriate test
 + p-values and statistical significance
-* Week 12: Monte Carlo Simulations
+* Week 16: Monte Carlo Simulations
 + Principles and applications
 + Random sampling and probabilistic modeling
-* Week 14: Markov Chains
+* Week 18: Markov Chains
 + Basics of stochastic processes
 + Transition matrices and steady-state behavior
 + Monte Carlo simulations with Markov Chains
