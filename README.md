@@ -100,9 +100,9 @@ Arguments, return values, and scope
 * Week 7: Object-Oriented Programming
 + Creating and using classes
 + Understanding objects, attributes, and methods
-* Week 9: Working with Common Python Libraries
-+ Overview of (internally) commonly-used packages: numpy, scipy (inc. stats), scikit-learn, reliability
-* Week 11: Data Access and Manipulation
+* Week 9-11: Working with Common Python Libraries
++ Overview of commonly-used packages: NumPy, pandas, Matplotlib/seaborn
+* Week 10: Data Access and Manipulation (under Pandas section)
 + Reading, writing, and processing data
 + Integrating Python with existing data architecture
 * Week 13: Developing Reusable Code
@@ -123,34 +123,34 @@ Arguments, return values, and scope
 * Week 4: Distribution Fitting
 + Maximum Likelihood Estimation (MLE) techniques
 + Goodness-of-fit assessments
-* Week 10: Feature Engineering
+* Week 12: Feature Engineering
 + Data preprocessing and transformation
 + Feature selection and extraction techniques
-* Week 12: Statistical Estimators
+* Week 14: Statistical Estimators
 + Point and interval estimation
 + Bias, variance, and efficiency
-* Week 14: Hypothesis Testing
+* Week 16: Hypothesis Testing
 + Null and alternative hypotheses
 + Common tests (t-tests, chi-square, Wald test, Wilcoxon signed-rank test)
 + Selecting the appropriate test
 + p-values and statistical significance
-* Week 16: Monte Carlo Simulations
+* Week 18: Monte Carlo Simulations
 + Principles and applications
 + Random sampling and probabilistic modeling
-* Week 18: Markov Chains
+* Week 20: Markov Chains
 + Basics of stochastic processes
 + Transition matrices and steady-state behavior
 + Monte Carlo simulations with Markov Chains
 
 ## Machine Learning Module
 
-* Week 19: Introduction to Machine Learning in Wind Energy
+* Week 21: Introduction to Machine Learning in Wind Energy
 + Use cases in wind turbine performance and reliability
 + Challenges and data considerations
-* Week 20: Neural Networks
+* Week 22: Neural Networks
 + Introduction to artificial neural networks
 + Fundamentals of architecture and training
-* Weeks 21-24: Specialized Neural Architectures
+* Weeks 23-24: Specialized Neural Architectures
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
 + Deep Learning methods:
