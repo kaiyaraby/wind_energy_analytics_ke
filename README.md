@@ -101,7 +101,7 @@ Arguments, return values, and scope
 + Creating and using classes
 + Understanding objects, attributes, and methods
 * Week 9-11: Working with Common Python Libraries
-+ Overview of commonly-used packages: NumPy, pandas, Matplotlib/seaborn
++ Overview of commonly-used packages: NumPy, pandas, Matplotlib
 * Week 10: Data Access and Manipulation (under Pandas section)
 + Reading, writing, and processing data
 + Integrating Python with existing data architecture
