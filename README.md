@@ -110,7 +110,7 @@ Arguments, return values, and scope
 * Week 15: Specialized Tools
 + Introduction to PyWake and its applications
 + Introduction to reliability
-* Week 17: Environment Management and Collaboration
+* Week 16: Environment Management and Collaboration
 + Setting up virtual environments
 + Version control with Git
 + Basics of containerization (Docker)
@@ -129,7 +129,7 @@ Arguments, return values, and scope
 * Week 14: Statistical Estimators
 + Point and interval estimation
 + Bias, variance, and efficiency
-* Week 16: Hypothesis Testing
+* Week 17: Hypothesis Testing
 + Null and alternative hypotheses
 + Common tests (t-tests, chi-square, Wald test, Wilcoxon signed-rank test)
 + Selecting the appropriate test
