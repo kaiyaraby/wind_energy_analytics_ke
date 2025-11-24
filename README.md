@@ -134,30 +134,30 @@ Arguments, return values, and scope
 + Common tests (t-tests, chi-square, Wald test, Wilcoxon signed-rank test)
 + Selecting the appropriate test
 + p-values and statistical significance
-* Week 18: Monte Carlo Simulations
+* Week 19: Monte Carlo Simulations
 + Principles and applications
 + Random sampling and probabilistic modeling
-* Week 20: Markov Chains
+* Week 21: Markov Chains
 + Basics of stochastic processes
 + Transition matrices and steady-state behavior
 + Monte Carlo simulations with Markov Chains
 
 ## Machine Learning Module
 
-* Week 21: Introduction to Machine Learning in Wind Energy
+* Week 1: Introduction to Machine Learning in Wind Energy (STARTS JANUARY 12th)
 + Use cases in wind turbine performance and reliability
 + Challenges and data considerations
-* Week 22: Neural Networks
+* Week 3-9: Neural Networks
 + Introduction to artificial neural networks
 + Fundamentals of architecture and training
-* Weeks 23-24: Specialized Neural Architectures
+* Weeks 11-15: Specialized Neural Architectures
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
 + Deep Learning methods:
-* Week 25: Model Development and Optimization
+* Week 17-19: Model Development and Optimization
 + Model selection techniques
 + Hyperparameter tuning strategies
-* Week 26-28: Advanced Machine Learning Methods
+* Weeks 21 onwards: Advanced Machine Learning Methods
 + Gaussian Process Regression (GPR)
 + Support Vector Machines (SVMs)
 + Polynomial Chaos Expansion (PCE)
