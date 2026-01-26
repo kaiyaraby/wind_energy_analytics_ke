@@ -144,7 +144,7 @@ Arguments, return values, and scope
 
 ## Machine Learning Module
 
-* Week 1: Introduction to Machine Learning in Wind Energy (STARTS JANUARY 12th)
+* Week 1: Introduction to Machine Learning in Wind Energy (STARTS FEBRUARY 2nd)
 + Use cases in wind turbine performance and reliability
 + Challenges and data considerations
 * Week 3-9: Neural Networks
