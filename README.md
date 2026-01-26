@@ -150,7 +150,7 @@ Arguments, return values, and scope
 * Week 3-9: Neural Networks
 + Introduction to artificial neural networks
 + Fundamentals of architecture and training
-* Weeks 11-15: Specialized Neural Architectures
+* Weeks 11-15: Specialized Neural Network Architectures
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
 + Deep Learning methods:
