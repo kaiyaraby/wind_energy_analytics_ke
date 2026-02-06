@@ -144,20 +144,25 @@ Arguments, return values, and scope
 
 ## Machine Learning Module
 
-* Week 1: Introduction to Machine Learning in Wind Energy (STARTS FEBRUARY 2nd)
-+ Use cases in wind turbine performance and reliability
+* Week 1: Introduction to Machine Learning in Wind Energy (WC Feb 2nd)
++ Use cases in wind turbine performance and reliability 
 + Challenges and data considerations
-* Week 3-9: Neural Networks
+* Week 3-9: Neural Networks (WC Feb 16th - WC 30th March)
 + Introduction to artificial neural networks
 + Fundamentals of architecture and training
-* Weeks 11-15: Specialized Neural Network Architectures
+* Week 11: How we use ML at Nadara (WC 13th April)
+* Weeks 13-17: Specialized Neural Network Architectures (WC 27th April - WC 25th May)
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
-+ Deep Learning methods:
-* Week 17-19: Model Development and Optimization
++ Deep Learning methods
+* Week 19-23: Requested use cases: (WC 8th - WC  6th July)
++ Predictive Maintenance
++ Forecasting (grid pricing, weather, access)
+* Week 25-27: Model Development and Optimization (WC 20th July - WC 3rd August)
 + Model selection techniques
 + Hyperparameter tuning strategies
-* Weeks 21 onwards: Advanced Machine Learning Methods
+* ML and AI considerations (WC 17th August)
+* Weeks 31 onwards: Advanced Machine Learning Methods (WC 31st August)
 + Gaussian Process Regression (GPR)
 + Support Vector Machines (SVMs)
 + Polynomial Chaos Expansion (PCE)
