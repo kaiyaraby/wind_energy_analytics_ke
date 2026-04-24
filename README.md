@@ -150,12 +150,12 @@ Arguments, return values, and scope
 * Week 3-9: Neural Networks (WC Feb 16th - WC 30th March)
 + Introduction to artificial neural networks
 + Fundamentals of architecture and training
-* Week 11: How we use ML at Nadara (WC 13th April)
-* Weeks 13-17: Specialized Neural Network Architectures (WC 27th April - WC 25th May)
+* Week 11: How we use ML at Nadara (WC 20th April)
+* Weeks 13-17: Specialized Neural Network Architectures (WC 4th May - WC 8th June)
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
 + Deep Learning methods
-* Week 19-23: Requested use cases: (WC 8th - WC  6th July)
+* Week 19-23: Requested use cases: (WC 22nd June - WC  6th July)
 + Predictive Maintenance
 + Forecasting (grid pricing, weather, access)
 * Week 25-27: Model Development and Optimization (WC 20th July - WC 3rd August)
