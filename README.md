@@ -154,7 +154,6 @@ Arguments, return values, and scope
 * Weeks 13-17: Specialized Neural Network Architectures (WC 4th May - WC 8th June)
 + Recurrent Neural Networks (RNNs)
 + Convolutional Neural Networks (CNNs)
-+ Deep Learning methods
 * Week 19-23: Requested use cases: (WC 22nd June - WC  6th July)
 + Predictive Maintenance
 + Forecasting (grid pricing, weather, access)
