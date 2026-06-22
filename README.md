@@ -160,14 +160,6 @@ Arguments, return values, and scope
 * Week 25-27: Model Development and Optimization (WC 20th July - WC 3rd August)
 + Model selection techniques
 + Hyperparameter tuning strategies
-* ML and AI considerations (WC 17th August)
-* Weeks 31 onwards: Advanced Machine Learning Methods (WC 31st August)
-+ Gaussian Process Regression (GPR)
-+ Support Vector Machines (SVMs)
-+ Polynomial Chaos Expansion (PCE)
-+ Radial Basis Function Networks (RBFNs)
-+ Dynamic Mode Decomposition (DMD) with ML integration
-+ Bayesian Networks
 
 
 
